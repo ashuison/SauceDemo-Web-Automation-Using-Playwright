@@ -1,0 +1,29 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# IDE
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+logs/
+
+# Screenshots
+screenshots/ 
