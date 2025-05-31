@@ -16,6 +16,9 @@ obj/
 test-results/
 playwright-report/
 playwright/.cache/
+.playwright/
+**/bin/
+**/obj/
 
 # IDE
 .idea/
@@ -26,4 +29,7 @@ playwright/.cache/
 logs/
 
 # Screenshots
-screenshots/ 
+screenshots/
+
+# macOS
+.DS_Store 
